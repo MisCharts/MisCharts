@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>YO SÉ</work-title>
+    </work>
+  <identification>
+    <creator type="composer">Marco Barrientos</creator>
+    <encoding>
+      <software>MuseScore Studio 4.7.5</software>
+      <encoding-date>2026-10-20</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    <miscellaneous>
+      <miscellaneous-field name="creationDate">2026-10-20</miscellaneous-field>
+      <miscellaneous-field name="platform">Microsoft Windows</miscellaneous-field>
+      </miscellaneous>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>2032</page-height>
+      <page-width>1233.71</page-width>
+      <page-margins type="even">
+        <left-margin>85.7143</left-margin>
+        <right-margin>85.7143</right-margin>
+        <top-margin>85.7143</top-margin>
+        <bottom-margin>85.7143</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>85.7143</left-margin>
+        <right-margin>85.7143</right-margin>
+        <top-margin>85.7143</top-margin>
+        <bottom-margin>85.7143</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
+    </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="616.86" default-y="1946.29" justify="center" valign="top" font-size="22">YO SÉ</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1148" default-y="1846.29" justify="right" valign="bottom">Chart: Miguel Angel Bravo Ramirez</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>subtitle</credit-type>
+    <credit-words default-x="616.86" default-y="1889.14" justify="center" valign="top" font-size="14">Marco Barrientos</credit-words>
+    </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name print-object="no">Guitarra acústica</part-name>
+      <part-abbreviation print-object="no">Guit.</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>Guitarra acústica</instrument-name>
+        <instrument-sound>pluck.guitar.acoustic</instrument-sound>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>26</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="349.74">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>50</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <top-system-distance>271.95</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>2</divisions>
+        <key>
+          <fifths>5</fifths>
+          </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
+          </clef>
+        </attributes>
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <metronome parentheses="no" default-x="-37.68" relative-x="-137.77" relative-y="129.09">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>100</per-minute>
+            </metronome>
+          </direction-type>
+        <sound tempo="100"/>
+        </direction>
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <rehearsal default-x="-20" relative-x="-94.38" relative-y="55.92" justify="center" font-weight="bold" font-size="14">INTRO</rehearsal>
+          </direction-type>
+        </direction>
+      <note default-x="141.33" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="192.98" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="244.63" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="296.28" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="2" width="220.9">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="64.15" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind text="4">suspended-fourth</kind>
+        </harmony>
+      <note default-x="115.8" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="167.45" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="3" width="220.9">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="64.15" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="115.8" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="167.45" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="4" width="220.9">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="64.15" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind text="4">suspended-fourth</kind>
+        </harmony>
+      <note default-x="115.8" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="167.45" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-20" relative-y="-30">
+          <syllabic>single</syllabic>
+          <text>Yo</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="5" width="354.68">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>123.99</system-distance>
+          </system-layout>
+        </print>
+      <barline location="left">
+        <bar-style>heavy-light</bar-style>
+        <repeat direction="forward"/>
+        </barline>
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <rehearsal default-x="-31.36" relative-x="-32.62" relative-y="64.4" justify="center" font-weight="bold" font-size="14">VERSO</rehearsal>
+          </direction-type>
+        </direction>
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-40" relative-y="-25" font-style="italic"> </words>
+          </direction-type>
+        </direction>
+      <note default-x="141.37" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="-14.88" default-y="-20" relative-x="11.64" relative-y="-27.72">
+          <syllabic>single</syllabic>
+          <text>1.sé, que si</text>
+          </lyric>
+        <lyric number="2" default-y="-44.19" relative-x="31.97" relative-y="-34.57">
+          <syllabic>single</syllabic>
+          <text>sé que con</text>
+          </lyric>
+        <lyric number="3" default-x="-16.21" default-y="-68.38" relative-x="13.59" relative-y="-40.87">
+          <syllabic>single</syllabic>
+          <text>2.Yo sé, que no </text>
+          </lyric>
+        </note>
+      <note default-x="194.25" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="247.13" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="300.01" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="6" width="225.81">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.14" default-y="-20" relative-x="92.42" relative-y="-27.28">
+          <syllabic>single</syllabic>
+          <text>toco hoy tu manto sana-</text>
+          </lyric>
+        <lyric number="2" default-y="-44.19" relative-x="85.62" relative-y="-32.28">
+          <syllabic>single</syllabic>
+          <text>barro en los ojos pude </text>
+          </lyric>
+        <lyric number="3" default-y="-68.38" relative-x="91.52" relative-y="-39.97">
+          <syllabic>single</syllabic>
+          <text>hay tormenta que resisti</text>
+          </lyric>
+        </note>
+      <note default-x="65.38" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="118.26" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="171.14" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="7" width="225.81">
+      <harmony print-frame="no">
+        <root>
+          <root-step>G</root-step>
+          <root-alter>1</root-alter>
+          </root>
+        <kind text="m">minor</kind>
+        </harmony>
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-40" relative-y="-25" font-style="italic"> </words>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.14" default-y="-20" relative-x="39.18" relative-y="-29.29">
+          <syllabic>single</syllabic>
+          <text>ré, que lla-</text>
+          </lyric>
+        <lyric number="2" default-x="3.21" default-y="-44.19" relative-x="31.97" relative-y="-33.42">
+          <syllabic>single</syllabic>
+          <text>ver, al le-</text>
+          </lyric>
+        <lyric number="3" default-y="-68.38" relative-x="38.96" relative-y="-38.15">
+          <syllabic>single</syllabic>
+          <text>rá, pues al</text>
+          </lyric>
+        </note>
+      <note default-x="65.38" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="118.26" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="171.14" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="8" width="256.13">
+      <harmony print-frame="no">
+        <root>
+          <root-step>G</root-step>
+          <root-alter>1</root-alter>
+          </root>
+        <kind text="m">minor</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-20" relative-x="110.74" relative-y="-26.58">
+          <syllabic>single</syllabic>
+          <text>maste a Lázaro y vivió otra</text>
+          </lyric>
+        <lyric number="2" default-y="-44.19" relative-x="91.33" relative-y="-31.14">
+          <syllabic>single</syllabic>
+          <text>proso tu tocaste y sano</text>
+          </lyric>
+        <lyric number="3" default-x="3.27" default-y="-68.38" relative-x="91.52" relative-y="-36.34">
+          <syllabic>single</syllabic>
+          <text>escuchar tu voz se calla-</text>
+          </lyric>
+        </note>
+      <note default-x="72.96" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="133.42" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="193.87" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="9" width="331.62">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>181.86</system-distance>
+          </system-layout>
+        </print>
+      <harmony print-frame="no">
+        <root>
+          <root-step>E</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-40" relative-y="-25" font-style="italic"> </words>
+          </direction-type>
+        </direction>
+      <note default-x="119.21" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-24.68" relative-x="39.96" relative-y="-17.44">
+          <syllabic>single</syllabic>
+          <text>vez, porque</text>
+          </lyric>
+        <lyric number="2" default-y="-48.87" relative-x="36.53" relative-y="-23.15">
+          <syllabic>single</syllabic>
+          <text>fue, porque</text>
+          </lyric>
+        <lyric number="3" default-y="-73.06" relative-x="31.71" relative-y="-27.28">
+          <syllabic>single</syllabic>
+          <text>rá, porque</text>
+          </lyric>
+        </note>
+      <note default-x="171.86" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="224.51" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="277.17" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="10" width="263.94">
+      <harmony print-frame="no">
+        <root>
+          <root-step>E</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.45" default-y="-24.68" relative-x="111.88" relative-y="-20.87">
+          <syllabic>single</syllabic>
+          <text>sé que en tu Nombre hay Po-</text>
+          </lyric>
+        <lyric number="3" default-x="3.45" default-y="-73.06" relative-x="110.74" relative-y="-2.6">
+          <syllabic>single</syllabic>
+          <text>sé que en tu Nombre hay Po-</text>
+          </lyric>
+        <lyric number="3" default-x="3.45" default-y="-73.06" relative-x="109.64" relative-y="-32.72">
+          <syllabic>single</syllabic>
+          <text>sé que en tu Nombre hay Po-</text>
+          </lyric>
+        </note>
+      <note default-x="74.91" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="137.32" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="199.73" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="11" width="224.91">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-24.68" relative-x="3.42" relative-y="-20.87">
+          <syllabic>single</syllabic>
+          <text>der</text>
+          </lyric>
+        <lyric number="2" default-y="-48.87" relative-x="1.14" relative-y="-27.72">
+          <syllabic>single</syllabic>
+          <text>der</text>
+          </lyric>
+        <lyric number="3" default-y="-73.06" relative-y="-33.62">
+          <syllabic>single</syllabic>
+          <text>der</text>
+          </lyric>
+        </note>
+      <note default-x="65.15" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="117.81" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="170.46" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="12" width="241.97">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.14" default-y="-24.68" relative-x="63.58" relative-y="-77.58">
+          <syllabic>single</syllabic>
+          <text>Tú reinas en vic-</text>
+          </lyric>
+        </note>
+      <note default-x="65.15" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="117.81" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="170.46" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-24.68" relative-y="-30">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+          </lyric>
+        <lyric number="2" default-y="-48.87" relative-y="-30">
+          <syllabic>single</syllabic>
+          <text>siendo</text>
+          </lyric>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <repeat direction="backward"/>
+        </barline>
+      </measure>
+    <measure number="13" width="337.11">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>232.58</system-distance>
+          </system-layout>
+        </print>
+      <harmony print-frame="no">
+        <root>
+          <root-step>E</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <rehearsal default-x="-25" relative-x="6.41" relative-y="73.5" justify="center" font-weight="bold" font-size="14">PRE-CORO</rehearsal>
+          </direction-type>
+        </direction>
+      <note default-x="119.21" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="0.24" default-y="-24.32" relative-x="59.36" relative-y="-20.87">
+          <syllabic>single</syllabic>
+          <text>Dios viniste por </text>
+          </lyric>
+        </note>
+      <note default-x="173.24" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="227.26" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="281.29" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="14" width="230.4">
+      <harmony print-frame="no">
+        <root>
+          <root-step>F</root-step>
+          <root-alter>1</root-alter>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.14" default-y="-24.32" relative-x="28.54" relative-y="-23.15">
+          <syllabic>single</syllabic>
+          <text>mi, Ema-</text>
+          </lyric>
+        </note>
+      <note default-x="66.53" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="120.55" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="174.58" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="15" width="228.6">
+      <harmony print-frame="no">
+        <root>
+          <root-step>E</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.21" default-y="-24.32" relative-x="58.22" relative-y="-24.29">
+          <syllabic>single</syllabic>
+          <text>nuel, tu estás a-</text>
+          </lyric>
+        </note>
+      <note default-x="66.53" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="120.55" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="174.58" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="16" width="266.32">
+      <barline location="left">
+        <bar-style>heavy-light</bar-style>
+        <repeat direction="forward"/>
+        </barline>
+      <harmony print-frame="no">
+        <root>
+          <root-step>F</root-step>
+          <root-alter>1</root-alter>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="31.36" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="8.04" default-y="-24.32" relative-y="-30">
+          <syllabic>single</syllabic>
+          <text>aquí...</text>
+          </lyric>
+        </note>
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-40" relative-y="-25" font-style="italic"> </words>
+          </direction-type>
+        </direction>
+      <note default-x="85.39" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="139.41" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.14" default-y="-24.32" relative-x="31.97" relative-y="-32.28">
+          <syllabic>single</syllabic>
+          <text>Tú reinas en vic-</text>
+          </lyric>
+        </note>
+      <note default-x="193.44" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <repeat direction="backward"/>
+        </barline>
+      </measure>
+    <measure number="17" width="362.26">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>188.2</system-distance>
+          </system-layout>
+        </print>
+      <barline location="left">
+        <bar-style>heavy-light</bar-style>
+        <repeat direction="forward"/>
+        </barline>
+      <direction placement="above">
+        <direction-type>
+          <segno default-x="2.75" default-y="20.66" relative-y="20"/>
+          </direction-type>
+        <sound segno="segno"/>
+        </direction>
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <rehearsal default-x="-31.36" relative-x="-42.29" relative-y="55.56" justify="center" font-weight="bold" font-size="14">CORO</rehearsal>
+          </direction-type>
+        </direction>
+      <note default-x="141.37" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.21" default-y="-21.26" relative-x="46.81" relative-y="-25.43">
+          <syllabic>single</syllabic>
+          <text>toria y Majes-</text>
+          </lyric>
+        <lyric number="2" default-x="2.54" default-y="-45.45" relative-x="41.1" relative-y="-27.72">
+          <syllabic>single</syllabic>
+          <text>ciones te ver-</text>
+          </lyric>
+        </note>
+      <note default-x="196.14" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="250.92" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="305.69" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="18" width="233.39">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.14" default-y="-21.26" relative-x="91.33" relative-y="-25.43">
+          <syllabic>single</syllabic>
+          <text>tad, Gobiernas en com-</text>
+          </lyric>
+        <lyric number="2" default-x="3.39" default-y="-45.45" relative-x="77.63" relative-y="-28.86">
+          <syllabic>single</syllabic>
+          <text>án, Tu Gloria y Po-</text>
+          </lyric>
+        </note>
+      <note default-x="67.27" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="122.05" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="176.82" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="19" width="233.39">
+      <harmony print-frame="no">
+        <root>
+          <root-step>G</root-step>
+          <root-alter>1</root-alter>
+          </root>
+        <kind text="m">minor</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-21.26" relative-x="54.8" relative-y="-24.29">
+          <syllabic>single</syllabic>
+          <text>pleta autoridad</text>
+          </lyric>
+        <lyric number="2" default-y="-45.45" relative-x="56.03" relative-y="-30.43">
+          <syllabic>single</syllabic>
+          <text>der,proclamarán</text>
+          </lyric>
+        </note>
+      <note default-x="67.27" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="122.05" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="176.82" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="20" width="233.39">
+      <harmony print-frame="no">
+        <root>
+          <root-step>G</root-step>
+          <root-alter>1</root-alter>
+          </root>
+        <kind text="m">minor</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.33" default-y="-21.26" relative-x="47.95" relative-y="-25.43">
+          <syllabic>single</syllabic>
+          <text>Tú eres el Me-</text>
+          </lyric>
+        </note>
+      <note default-x="67.27" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="122.05" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="176.82" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="21" width="341.38">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>165.51</system-distance>
+          </system-layout>
+        </print>
+      <harmony print-frame="no">
+        <root>
+          <root-step>E</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="119.21" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.63" default-y="-26.96" relative-x="51.37" relative-y="-20.87">
+          <syllabic>single</syllabic>
+          <text>sias, eres El Se-</text>
+          </lyric>
+        </note>
+      <note default-x="174.3" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="229.39" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="284.49" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="22" width="234.67">
+      <harmony print-frame="no">
+        <root>
+          <root-step>F</root-step>
+          <root-alter>1</root-alter>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-26.96" relative-x="59.36" relative-y="-22.01">
+          <syllabic>single</syllabic>
+          <text>ñor, solo tu eres</text>
+          </lyric>
+        </note>
+      <note default-x="67.59" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="122.68" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="177.78" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="23" width="234.67">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-26.96" relative-x="6.85" relative-y="-22.01">
+          <syllabic>single</syllabic>
+          <text>Rey</text>
+          </lyric>
+        </note>
+      <note default-x="67.59" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="122.68" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="177.78" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="24" width="251.73">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-x="3.14" default-y="-26.96" relative-x="55.94" relative-y="-18.58">
+          <syllabic>single</syllabic>
+          <text>los reinos y na-</text>
+          </lyric>
+        </note>
+      <note default-x="67.59" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="122.68" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="177.78" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <direction placement="below">
+        <direction-type>
+          <words default-x="257.23" default-y="-40" relative-x="8.07" relative-y="-25.57">Fine</words>
+          </direction-type>
+        <sound fine="yes"/>
+        </direction>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <repeat direction="backward"/>
+        </barline>
+      </measure>
+    <measure number="25" width="358">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>190.14</system-distance>
+          </system-layout>
+        </print>
+      <barline location="left">
+        <bar-style>heavy-light</bar-style>
+        <repeat direction="forward"/>
+        </barline>
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <rehearsal default-x="-31.36" relative-x="-21.78" relative-y="59.41" justify="center" font-weight="bold" font-size="14">PUENTE</rehearsal>
+          </direction-type>
+        </direction>
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-40" relative-y="-25" font-style="italic"> </words>
+          </direction-type>
+        </direction>
+      <note default-x="141.37" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-45.95" relative-x="89.35" relative-y="0.4">
+          <syllabic>single</syllabic>
+          <text>voy a cantar hasta que el</text>
+          </lyric>
+        <lyric number="2" default-x="3.21" default-y="-70.14" relative-x="83.2" relative-y="-3.88">
+          <syllabic>single</syllabic>
+          <text>voy a cantar porque cre-</text>
+          </lyric>
+        <lyric number="3" default-y="-94.33" relative-x="79.45" relative-y="-9.5">
+          <syllabic>single</syllabic>
+          <text>voy a cantar hasta que </text>
+          </lyric>
+        <lyric number="4" default-x="3.21" default-y="-118.52" relative-x="82.01" relative-y="-12.06">
+          <syllabic>single</syllabic>
+          <text>voy a cantar porque cre-</text>
+          </lyric>
+        <lyric number="5" default-x="3.02" default-y="-142.71" relative-x="78.17" relative-y="-13.34">
+          <syllabic>single</syllabic>
+          <text>voy a cantar en el nom-</text>
+          </lyric>
+        <lyric number="6" default-x="3.21" default-y="-166.9" relative-x="47.41" relative-y="-15.9">
+          <syllabic>single</syllabic>
+          <text>voy a cantar y ve-</text>
+          </lyric>
+        <lyric number="7" default-x="3.21" default-y="-191.1" relative-x="80.73" relative-y="-22.31">
+          <syllabic>single</syllabic>
+          <text>voy a cantar porque tu e-</text>
+          </lyric>
+        <lyric number="8" default-x="3.21" default-y="-215.29" relative-x="76.88" relative-y="-23.59">
+          <syllabic>single</syllabic>
+          <text>voy a cantar porque cre-</text>
+          </lyric>
+        </note>
+      <note default-x="195.08" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="248.78" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="302.49" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="26" width="229.13">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-45.95" relative-x="42.24" relative-y="0.4">
+          <syllabic>single</syllabic>
+          <text>mar se abra</text>
+          </lyric>
+        <lyric number="2" default-y="-70.14" relative-x="79.77" relative-y="-3.16">
+          <syllabic>single</syllabic>
+          <text>o que milagros harás</text>
+          </lyric>
+        <lyric number="3" default-y="-94.33" relative-x="52.54" relative-y="-6.93">
+          <syllabic>single</syllabic>
+          <text>el enfermo sane</text>
+          </lyric>
+        <lyric number="4" default-y="-118.52" relative-x="80.73" relative-y="-10.78">
+          <syllabic>single</syllabic>
+          <text>o que milagros harás</text>
+          </lyric>
+        <lyric number="5" default-y="-142.71" relative-x="38.44" relative-y="-14.62">
+          <syllabic>single</syllabic>
+          <text>bre de Jesús</text>
+          </lyric>
+        <lyric number="6" default-y="-166.9" relative-x="87.14" relative-y="-18.47">
+          <syllabic>single</syllabic>
+          <text>remos tu Gloria brillar</text>
+          </lyric>
+        <lyric number="7" default-y="-191.1" relative-x="20.5" relative-y="-21.03">
+          <syllabic>single</syllabic>
+          <text>res Digno</text>
+          </lyric>
+        <lyric number="8" default-y="-215.29" relative-x="74.32" relative-y="-24.87">
+          <syllabic>single</syllabic>
+          <text>o que milagros harás</text>
+          </lyric>
+        </note>
+      <note default-x="66.21" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind text="4">suspended-fourth</kind>
+        </harmony>
+      <note default-x="119.91" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="173.62" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="27" width="229.13">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-45.95" relative-x="93.89" relative-y="-1.16">
+          <syllabic>single</syllabic>
+          <text>voy a cantar hasta que </text>
+          </lyric>
+        <lyric number="2" default-y="-70.14" relative-x="92.26" relative-y="-30">
+          <syllabic>single</syllabic>
+          <text>voy a cantar hasta ver </text>
+          </lyric>
+        <lyric number="3" default-x="3.02" default-y="-94.33" relative-x="90.98" relative-y="-63.32">
+          <syllabic>single</syllabic>
+          <text>voy a cantar en el nom-</text>
+          </lyric>
+        <lyric number="4" default-y="-118.52" relative-x="92.26" relative-y="-92.79">
+          <syllabic>single</syllabic>
+          <text>voy a cantar porque tu </text>
+          </lyric>
+        </note>
+      <note default-x="66.21" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="119.91" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="173.62" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="28" width="246.19">
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind>major</kind>
+        </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <lyric number="1" default-y="-45.95" relative-x="68.64" relative-y="-1.44">
+          <syllabic>single</syllabic>
+          <text>los muros caigan</text>
+          </lyric>
+        <lyric number="2" default-y="-70.14" relative-x="52.54" relative-y="-32.56">
+          <syllabic>single</syllabic>
+          <text>al cautivo libre</text>
+          </lyric>
+        <lyric number="3" default-y="-94.33" relative-x="46.13" relative-y="-64.6">
+          <syllabic>single</syllabic>
+          <text>bre de Jesús</text>
+          </lyric>
+        <lyric number="4" default-y="-118.52" relative-x="37.16" relative-y="-95.35">
+          <syllabic>single</syllabic>
+          <text>lo mereces</text>
+          </lyric>
+        </note>
+      <note default-x="66.21" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <harmony print-frame="no">
+        <root>
+          <root-step>B</root-step>
+          </root>
+        <kind text="4">suspended-fourth</kind>
+        </harmony>
+      <note default-x="119.91" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="173.62" default-y="-20">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-40" relative-x="31.27" relative-y="-26.61" font-style="italic">X9</words>
+          </direction-type>
+        <offset sound="yes">-1</offset>
+        </direction>
+      <direction placement="below">
+        <direction-type>
+          <words default-x="246.19" default-y="-40" relative-x="3.23" relative-y="-57.08">D.S. al Fine</words>
+          </direction-type>
+        <sound dalsegno="segno"/>
+        </direction>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        <repeat direction="backward"/>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>
